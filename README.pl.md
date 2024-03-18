@@ -5,7 +5,38 @@
 Ten projekt został stworzony w celu oszacowania przyspieszenia ziemskiego na podstawie pliku wideo przedstawiającego oscylujące wahadło.
 
 ## Przykład wahadła
-<img src="imgs/pendulum.jpg" width="400">
+<img src="imgs/pendulum1.jpg" width="400">
+<img src="imgs/pendulum2.jpg" width="400">
+
+## Pomiary dla różnych wahadeł (stoper i skrypt python)
+
+Linki do pliku w google docs oraz w formacie csv.
+
+[![pl](https://img.shields.io/badge/CSV-blue)](https://github.com/perqu/math-pendulum/blob/main/data/measurements.csv)
+[![pl](https://img.shields.io/badge/Google_docs-blue)](https://docs.google.com/spreadsheets/d/1XhGYWd3TXwpD9Gf9mUDflV4fyDKOh834PaEkRYOEbg8/edit?usp=sharing)
+
+<img src="imgs/measurements.png">
+
+## Analiza
+
+Przy tworzeniu domowego wahadła należy zwrócić uwagę na takie aspekty jak:
+- Długość nici
+- Ciężar i rozmiar kulki
+- Stabilność konstrukcji
+- Precyzja pomiaru
+- Odpowiednie warunki otoczenia
+
+### Pomiar długości
+
+W pierwszym projekcie nić była przymocowana do śruby, a wahadlo przebite igłą przez kinder jajko (zdjęcie nr 1). Nić była krótka, a jajko było problematyczne w wyznaczeniu jego środka ciężkości, gdyż było wypelnione monetami (groszaki). Nić dla usztywnienia z obu stron zostala doklejona klejem cyjano-akrylowym, co sprawdziło się świetnie.
+
+W drugim projekcie nić została zamieniona na wiele dłuższą, co ułatwiło dokładny pomiar. Samo wahadlo zostało wymienione na śrubę z czterema nakretkami, dla nakrętek środek ciężkości znajdował się w centralnym punkcie, więc wystarczyło zmierzyć wysokość nakretki i podzielić ją na pół.
+
+Do pomiarów mniejszych wartości była używana suwmiarka, natomiast do większych odległości metrówka.
+
+### Pomiar Czasu
+
+Pierwsze testowe pomiary zawsze były wykonywane przy pomocy stopera, nastepnie uśrednieniu czterech kolejnych pomiarów, a ostatecznie najdokładniejszy wynik udało się uzyskać dzięki napisanemu przeze mnie programowi, który znajduje się w repozytorium(pendulum_counter.py). Ten skrypt z nagrania wideo oblicza przyspieszenie ziemskie po podaniu długości i koloru wahadła.
 
 
 ## Jak używać
@@ -14,7 +45,7 @@ Projekt jest gotowy do uruchomienia natychmiast po pobraniu, ponieważ zawiera p
 
 ### 1. extract_video_segment.py
 
-Ten plik służy do wyodrębnienia fragmentu z pliku wideo na podstawie określonego przedzialu czasu - początkowego i końcowego. Postępuj zgodnie z poniższymi krokami, aby z niego skorzystac:
+Ten plik służy do wyodrębnienia fragmentu z pliku wideo na podstawie określonego przedzialu czasu - początkowego i końcowego. Postępuj zgodnie z poniższymi punktami, aby z niego skorzystac:
 
 - Upewnij się, że masz zainstalowany Python na swoim systemie oraz wymaganą bibliotekę moviepy.
 - Otwórz plik extract_video_segment.py i określ ścieżkę do pliku wideo wejściowego (video_path).

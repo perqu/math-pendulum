@@ -5,7 +5,8 @@
 This project is designed to estimate the gravitational acceleration from a video file containing a recording of an oscillating pendulum. 
 
 ## Pendulum example
-<img src="imgs/pendulum.jpg" width="400">
+<img src="imgs/pendulum1.jpg" width="400">
+<img src="imgs/pendulum2.jpg" width="400">
 
 ## How to Use
 The project is ready to run immediately after downloading, as it contains prepared video material that can be analyzed.
