@@ -28,9 +28,9 @@ Przy tworzeniu domowego wahadła należy zwrócić uwagę na takie aspekty jak:
 
 ### Pomiar długości
 
-W pierwszym projekcie nić była przymocowana do śruby, a wahadlo przebite igłą przez kinder jajko (zdjęcie nr 1). Nić była krótka, a jajko było problematyczne w wyznaczeniu jego środka ciężkości, gdyż było wypelnione monetami (groszaki). Nić dla usztywnienia z obu stron zostala doklejona klejem cyjano-akrylowym, co sprawdziło się świetnie.
+W pierwszym projekcie (zdjęcie nr 1) nić była przymocowana do śruby, a wahadlo przebite igłą przez kinder jajko. Nić była krótka, a jajko było problematyczne w wyznaczeniu jego środka ciężkości, gdyż było wypelnione monetami (groszaki). Nić dla usztywnienia z obu stron zostala doklejona klejem cyjano-akrylowym, co sprawdziło się świetnie.
 
-W drugim projekcie nić została zamieniona na wiele dłuższą, co ułatwiło dokładny pomiar. Samo wahadlo zostało wymienione na śrubę z czterema nakretkami, dla nakrętek środek ciężkości znajdował się w centralnym punkcie, więc wystarczyło zmierzyć wysokość nakretki i podzielić ją na pół.
+W drugim projekcie (zdjęcie nr 2) nić została zamieniona na wiele dłuższą, co ułatwiło dokładny pomiar. Samo wahadlo zostało wymienione na śrubę z czterema nakretkami, dla nakrętek środek ciężkości znajdował się w centralnym punkcie, więc wystarczyło zmierzyć wysokość nakretki i podzielić ją na pół.
 
 Do pomiarów mniejszych wartości była używana suwmiarka, natomiast do większych odległości metrówka.
 
