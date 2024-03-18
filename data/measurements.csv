@@ -1,24 +1,22 @@
 Pomiar 1,"Pomiar z uzyciem krotkiej nitki, 
-dlugosc mierzona do srodka odwaznika",,,Pomiar 2,"Pomiar z uzyciem krotkiej nitki, dlugosc mierzona
- do srodka ciezkosci (przyblizonego) odwaznika",,,Pomiar 3,"Pomiar z uzyciem dlugiej nitki, odwaznik
+dlugosc mierzona do srodka odwaznika",,Pomiar 2,"Pomiar z uzyciem krotkiej nitki, dlugosc mierzona
+ do srodka ciezkosci (przyblizonego) odwaznika",,Pomiar 3,"Pomiar z uzyciem dlugiej nitki, odwaznik
 o srodku ciezkosci w srodku wysokosci.
-Srednia z czterech pomiarow, dane ponizej",,,Pomiar 4,"Pomiar z uzyciem dlugiej nitki, odwaznik
-o srodku ciezkosci w srodku wysokosci",,
-Opis,,,,Opis,,,,Opis,,,,Opis,,,
-Czas,"627,3",,,Czas,"627,3",,,Czas,"40,55",,,Czas,"465,77",,
-ilosc okresow,730,,,ilosc okresow,730,,,ilosc okresow,18,,,ilosc okresow,208,,
-okres,"0,8593150685",,,okres,"0,8593150685",,,okres,"2,252777778",,,okres,"2,239278846",,
-dl nitki,"0,1556",,,dl nitki,"0,1556",,,,,,,,,,
-dl obiektu,"0,0225",,,dl obiektu,"0,02625",,,,,,,,,,
-dlugosc calk,"0,1781",,,dlugosc calk,"0,18185",,,dlugosc calk,"1,25",,,dlugosc calk,"1,25",,
-wynik,"9,521794436",,,wynik,"9,722281405",,,wynik,"9,723733394",,,wynik,"9,841320935",,
-pomiar czasu,python,,,pomiar czasu,python,,,pomiar czasu,stoper,,,pomiar czasu,python,,
-pomiar dlugosci,suwmiarka,,,pomiar dlugosci,suwmiarka,,,pomiar dlugosci,metrowka,,,pomiar dlugosci,metrowka,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,Dane do pomiaru 3,,,,,,,
-,,,,,,,,Czas,Okres,okres,dlugosc calk,Wynik,pomiar czasu,pomiar dlugosci,Opis
-,,,,,,,,"40,5",18,"2,25","1,225","9,552802285",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
-,,,,,,,,"40,7",18,"2,261111111","1,225","9,459147926",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
-,,,,,,,,"40,7",18,"2,261111111","1,225","9,459147926",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
-,,,,,,,,"40,3",18,"2,238888889","1,225","9,647854458",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
+Srednia z czterech pomiarow, dane ponizej",,Pomiar 4,"Pomiar z uzyciem dlugiej nitki, odwaznik
+o srodku ciezkosci w srodku wysokosci"
+Opis,,,Opis,,,Opis,,,Opis,
+Czas,"627,3",,Czas,"627,3",,Czas,"40,55",,Czas,"465,77"
+ilosc okresow,730,,ilosc okresow,730,,ilosc okresow,18,,ilosc okresow,208
+okres,"0,8593150685",,okres,"0,8593150685",,okres,"2,252777778",,okres,"2,239278846"
+dl nitki,"0,1556",,dl nitki,"0,1556",,,,,,
+dl obiektu,"0,0225",,dl obiektu,"0,02625",,,,,,
+dlugosc calk,"0,1781",,dlugosc calk,"0,18185",,dlugosc calk,"1,25",,dlugosc calk,"1,25"
+wynik,"9,521794436",,wynik,"9,722281405",,wynik,"9,723733394",,wynik,"9,841320935"
+pomiar czasu,python,,pomiar czasu,python,,pomiar czasu,stoper,,pomiar czasu,python
+pomiar dlugosci,suwmiarka,,pomiar dlugosci,suwmiarka,,pomiar dlugosci,metrowka,,pomiar dlugosci,metrowka
+,,,Dane do pomiaru 3,,,,,,,
+,,,Czas,Okres,okres,dlugosc calk,Wynik,pomiar czasu,pomiar dlugosci,Opis
+,,,"40,5",18,"2,25","1,225","9,552802285",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
+,,,"40,7",18,"2,261111111","1,225","9,459147926",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
+,,,"40,7",18,"2,261111111","1,225","9,459147926",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
+,,,"40,3",18,"2,238888889","1,225","9,647854458",stoper,metrowka,"pomiar o dlugiej nitce, do srodka ciezkosci odwaznika"
