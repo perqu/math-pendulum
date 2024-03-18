@@ -1,14 +1,11 @@
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/perqu/math-pendulum/blob/main/README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/perqu/math-pendulum/blob/main/README.pl.md)
+
 # Mathematical Pendulum Analysis
-This project is designed to estimate the gravitational acceleration from a video file containing a recording of an oscillating pendulum. It includes two main files:
-
-1. **extract_video_segment.py**: This file is used to extract a segment from a video file based on specified start and end times.
-
-2. **fluctuation_counter.py**: This file contains functions to detect the period of color fluctuations corresponding to a specified target color in a video.
+This project is designed to estimate the gravitational acceleration from a video file containing a recording of an oscillating pendulum. 
 
 ## Pendulum example
 <img src="imgs/pendulum.jpg" width="400">
-
-
 
 ## How to Use
 The project is ready to run immediately after downloading, as it contains prepared video material that can be analyzed.
