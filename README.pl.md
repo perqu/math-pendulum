@@ -28,7 +28,8 @@ Przy tworzeniu domowego wahadła należy zwrócić uwagę na takie aspekty jak:
 
 ### Pomiar długości
 
-W pierwszym projekcie (zdjęcie nr 1) nić była przymocowana do śruby, a z drugiej strony do kinder jajka. Nić była krótka, a jajko było problematyczne w wyznaczeniu jego środka ciężkości, gdyż było wypełnione monetami (groszaki). Nić dla usztywnienia z obu stron zostala doklejona klejem cyjano-akrylowym, co sprawdziło się świetnie.
+W pierwszym projekcie (zdjęcie nr 1) nić była przymocowana do śruby, a z drugiej strony do kinder jajka. Nić dla usztywnienia z obu stron zostala doklejona klejem cyjano-akrylowym, co sprawdziło się świetnie.
+Pierwsze wahadło dalej drgało po ponad 30 min, wiec sztywność konstrukcji z imadla, śruby, nici i kinder jajka wypełnionego monetami spełniło swoje zadanie. Z powodu trudności w przeprowadzeniu dokładnego pomiaru długości(wyznaczenie środka ciężkości), została wykonana kolejna konstrukcja. 
 
 W drugim projekcie (zdjęcie nr 2) nić została zamieniona na wiele dłuższą, co ułatwiło dokładny pomiar. Samo wahadło zostało wymienione na śrubę z czterema nakretkami, dla nakrętek środek ciężkości znajdował się w centralnym punkcie, więc wystarczyło zmierzyć wysokość nakrętki i podzielić ją na pół.
 
