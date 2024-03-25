@@ -56,13 +56,10 @@ def fluctuation_counter(video_path: str, target_color: list[int]) -> float:
 
         was_color_detected_before  = is_color_detected 
 
-        '''
-        display frames
         cv2.imshow('Frame', frame)
         cv2.imshow('Mask', mask)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
-        '''
     cap.release()
     return current_time/counter
 
